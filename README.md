@@ -1,0 +1,2 @@
+# Smoothie-ty-
+Tikape harjoitustyö
